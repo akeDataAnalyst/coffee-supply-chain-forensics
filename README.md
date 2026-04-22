@@ -11,7 +11,7 @@ Smallholder farmers capture a limited share of export value due to:
 - Lack of transparency in supply chain flows
 
 ## Solution
-We developed a system-level analytical model:
+I developed a system-level analytical model:
 
 - Mapped the supply chain as a directed network (graph model)
 - Modeled price transmission using elasticity estimates
