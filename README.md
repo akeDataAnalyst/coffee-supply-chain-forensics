@@ -1,4 +1,6 @@
 # Supply Chain Transparency & Price Transmission Model
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+
 
 ## Description
 This project analyzes inefficiencies in the coffee supply chain and quantifies how value is lost between farmers and export markets. It uses network modeling and simulation techniques to identify bottlenecks and optimize value distribution.
