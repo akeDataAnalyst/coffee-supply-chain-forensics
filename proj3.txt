@@ -1,0 +1,17 @@
+coffee-supply-chain-forensics
+
+- Logistics Frontier & Price Transmission Model
+
+Title: Supply Chain Transparency & Farmgate Price Optimization
+
+
+Problem: In the Ethiopian coffee chain, value "leaks" at every node (Collector ? Union ? Exporter). Farmers often receive less than 60% of the FOB (Export) price because they lack information on the most efficient route to market.
+
+
+Deep Insight Solution: A Network Optimization Model using NetworkX. Map the physical infrastructure of Ethiopian coffee washing stations and warehouses. Use Monte Carlo simulations to model how price shocks at the New York C-Market transmit down to the farmgate level.
+
+
+Streamlit Implementation: A bottleneck heatmap. It should identify which regional "Dry Mills" or "Collection Points" are causing the highest costs or longest delays, effectively eating into farmer margins.
+
+Recommendation: Quantify the "Value Leak." 
+Your conclusion should be: "By bypassing Node X and optimizing the route to Node Y, we can increase the farmer’s share of the final export price by 12%."

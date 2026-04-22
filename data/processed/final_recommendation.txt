@@ -1,0 +1,7 @@
+﻿## Strategic Recommendation:
+The sensitivity analysis confirms that **Transport Costs (r = -0.96)** are the primary driver of value loss.
+The heatmap identifies the **Gera → Telila** and **Jimma → Addis** segments as the highest 'friction' zones.
+
+**Actionable Insight:** By optimizing the logistics route (bypassing redundant aggregation nodes), we can increase the farmer’s share 
+from 47.75% to 52.59%. 
+This represents a 10.1%% relative increase in income without changing global coffee prices.

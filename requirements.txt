@@ -1,0 +1,7 @@
+pandas
+numpy
+scipy
+networkx
+streamlit
+plotly
+pickle-mixin
