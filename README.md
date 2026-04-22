@@ -1,5 +1,5 @@
 # Supply Chain Transparency & Price Transmission Model
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)]()
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://coffee-supply-chain-forensics-bu8spccghrrsrhgi9dmdxs.streamlit.app/)
 
 
 ## Description
